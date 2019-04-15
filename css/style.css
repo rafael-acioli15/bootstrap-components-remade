@@ -1,0 +1,25 @@
+/*Reset CSS*/
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/*Styles and Positions*/
+
+.components-group {
+  display: flex;
+  justify-content: center;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.title {
+  font-family: "Segoe UI";
+  display: flex;
+  justify-content: center;
+}
+
+button {
+  margin-left: 4px;
+}
